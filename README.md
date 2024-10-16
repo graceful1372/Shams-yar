@@ -32,5 +32,11 @@
 * PersianDate
 * Primecalendar
 * POI
+
 عکسهای از برخی از صفحه های برنامه :
-![ahome_manager](https://github.com/user-attachments/assets/370cca76-70ad-4e15-9846-4735fb9cee5e)
+
+![ahome_manager](https://github.com/user-attachments/assets/370cca76-70ad-4e15-9846-4735fb9cee5e)      ![alesson](https://github.com/user-attachments/assets/a9fd8888-7cce-4ec5-8d3d-7558a7bfd765)    ![ahome_manager](https://github.com/user-attachments/assets/0ac06eb5-54f6-46c2-9edb-48810e6bb982)      ![alist_student](https://github.com/user-attachments/assets/d729bd2a-ad50-4692-8859-ae458702cf39)       ![acalendar_teachaer](https://github.com/user-attachments/assets/72fd3d60-e469-4fa1-a727-83093cf3e479)
+
+
+
+
